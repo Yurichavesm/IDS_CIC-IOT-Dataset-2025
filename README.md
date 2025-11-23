@@ -1,6 +1,6 @@
 # IDS_CIC-IOT-Dataset-2025
 
-Projeto em Python desenvolvido em Jupyter Notebook para um Sistema de Detecção de Intrusão (IDS) utilizando o dataset **CIC-IOT-Dataset-2025**.
+Projeto em Python desenvolvido no Jupyter Notebook para um Sistema de Detecção de Intrusão (IDS) utilizando o dataset **CIC-IOT-Dataset-2025**.
 
 ## Informações sobre o dataset
 
